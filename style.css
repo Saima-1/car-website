@@ -1,0 +1,117 @@
+.one{
+    position: relative;
+    left: 130px;
+    width: 500px;
+}
+
+.btn1,.explore{
+    border-radius: 50px;
+    font-size: 14px;
+    position: relative;
+    left: 100px;
+}
+
+.explore:hover{
+ color: black;
+}
+
+
+.btn1:hover{
+background-color: black;
+color:orange;
+border: 1px orange solid;
+cursor: pointer;
+}
+.logo{
+    height: 50px;
+    position: fixed;
+
+}
+.navbar{
+    cursor: pointer;
+    position: relative;
+    right: 50px;
+    
+}
+.badge{
+   
+position: relative;
+right: 20px;
+
+}
+.badge:hover{
+    border: 1px orange solid;
+  position: relative;
+  bottom: 3px;
+  
+  
+}
+.car1:hover{
+    position: relative;
+    bottom: 3px;
+}
+.heading1{
+    position: relative;
+    width: 250px;
+    right: 150px; 
+    height: 150px;
+   
+}
+.heading2{
+    position: relative;
+    right: 0px;
+    width: 250px;
+    height: 150px;
+}
+.heading3{
+    position: relative;
+    left: 150px;  
+    width: 250px;
+    height: 150px;
+}
+.heading4{
+    position: relative;
+    left: 300px;  
+    width: 250px;
+    height: 150px;
+}
+
+.buy{
+    border-radius: 50px;
+}
+.para1{
+    line-height: 20px;
+    font-size: 14px;
+    position: relative;
+    bottom: 10px;
+}
+.box{
+    border: 1px rgb(88, 81, 81) solid;
+    position: relative;
+   
+}
+.box:hover{
+    border: 1px orange solid;
+   bottom: 6px;
+}
+.pic1:hover{
+     bottom: 6px;
+}
+.section2{
+ 
+text-align: center;
+}
+.picture1{
+    background-color: black;
+   
+}
+.picture{
+     position: relative;
+    left: 320px;
+}
+.foot{
+    font-size: 30px
+}
+.bord{
+    border-top: 1px rgb(110, 107, 107) solid;
+}
